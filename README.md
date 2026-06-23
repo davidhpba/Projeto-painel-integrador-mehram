@@ -1,2 +1,3 @@
-# Projeto-painel-integrador
+# Projeto painel integrador
+---
 Onde tem tudo do trabalho, até as atas...
