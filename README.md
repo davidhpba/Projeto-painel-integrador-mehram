@@ -19,7 +19,7 @@ Levi ficou responsável pelos **Recursos multimídia** e **Pesquisas visuais e r
 
 Ana ficou responsável pela **Responsividade** e **Pesquisa Geral (escrita)** utilizada.
 
-Gustavo ficou encarregado pela **construção de elementos interativos** e administração principal do **Javascript**
+Gustavo ficou encarregado pela **construção de elementos interativos** e administração principal do **Javascript.**
 
 Vitor ficou na responsabilidade dos **principais documentos** e da **funcionalidade adequada do site,** juntamente da **administração geral do CSS utilizado.**
 
@@ -58,8 +58,9 @@ dev. principal do javascript\- Gustavo;
    No segundo dia de Ata discutimos mais sobre as funções que cada um irá administrar e manipular. Com os temas já definidos, começamos a fazer a pesquisa e mexer com o VsCode, separando já o CSS central e derivados para já começarmos os trabalhos ao decorrer dos dias com mais facilidade.   
 	Uma dificuldade que estamos passando levemente é com o comportamento de membros e juntamente com brincadeiras fora de hora, assim acabando comprometendo nossa eficiência dentro do trabalho. Mas estamos tentando reduzir ao máximo essas desavenças.   
 	Em relação à organização apesar das dificuldades, estamos conseguindo ir consideravelmente rápido e nas próximas semanas imaginamos conseguir começar a pôr em prática as ideias no VsCode.
-
-pesquisas e fontes:
+	
+\--------------------------------------------------------------------------------------------------------------------------------------------------- 
+\-pesquisas e fontes:
 
 **Qualidade de sono.**
 
@@ -70,6 +71,8 @@ pesquisas e fontes:
    Estudos mostram que um indivíduo adulto, em média um sono normal é entre 7 á 8 horas, enquanto entre jovens (crianças e adolescentes) têm necessidade de maior tempo. O sono é de extrema importância para o crescimento dos mais novos, pois durante ele é liberado o hormônio de crescimento (GH).  
  o B3  
    **Einstein.br:** Dormir bem é essencial para realizar tarefas diárias, com disposição e vigor. Vários aspectos podem ser prejudicados sem um sono adequado, como produtividade no trabalho e o humor, fora os sinais de cansaço, ansiedade, falta de disposição e até mesmo nervosismo.
+   
+\----------------------------------------------------------------------------------------------------------------------------------------------------
 
 **3**° **Ata**
 
@@ -82,12 +85,16 @@ pesquisas e fontes:
 **Motivo: Falta justificado: Doente com atestado.**
 
    No terceiro dia de Ata, o grupo começou a fazer o modelo do site no figma, decidimos a paleta de cor do site, o responsável pelo GitHub, quem ficará responsável pela edição e quem irá fazer os códigos no vscode. 
+   
+\--------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 **Responsável pelo GitHub:** David.  
 **Responsáveis pelo figma:** Levi e Ícaro.   
 **Responsáveis pelos códigos:** Vitor \- css. Gustavo \- index.
 
   Um outro problema que o grupo está lidando é a falta de comprometimento de um aluno, enquanto os outros estão se empenhando e levando á sério o trabalho, este aluno falta sem dar motivos e quando vem à aula não demonstra interesse em ajudar.
+  
+\--------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 **4**° **Ata**
 
@@ -106,6 +113,7 @@ pesquisas e fontes:
 
   Enquanto isso, o encarregado do GitHub está pesquisando os funcionamentos do site de armazenamento de códigos, atas e o figma. E compartilhando o GitHub com integrantes.  
   
+\--------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 **5**° **Ata**
 
@@ -123,6 +131,8 @@ pesquisas e fontes:
    Enquanto o encarregado pelo GitHub está entendendo como o site funciona,  
  no figma, Gustavo já está terminando a primeira página **“Menu”**.
 
+\--------------------------------------------------------------------------------------------------------------------------------------------------- 
+
  **6**° **Ata**
 
 **Quinto Dia \- 07/07**
@@ -135,7 +145,7 @@ pesquisas e fontes:
  \-**Vitor Gabriel Silvano.**  
 **Motivo:** Ausência não justificada.
 
-\-**Ana Paula.**
+\- **Ana Paula.**
 **Motivo:** Ausência não justificada, não fez as pesquisas.
 
 \-**Gustavo Guedes.**
