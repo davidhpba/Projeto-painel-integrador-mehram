@@ -1,10 +1,10 @@
 **1°** **Ata** 
 
-**Primeiro Dia 02/06**
+**Primeiro Dia - 02/06**
 
  **Coordenador:** Gustavo Guedes  
  **Secretário**:Vitor Gabriel Silvano  
-**Data:**  02/06/2026
+**Data:** 02/06/2026
 
    Discussão sobre a organização do grupo e as responsabilidades de cada integrante, o grupo também está organizando a pesquisa sobre o assunto escolhido dentro de sala. O assunto escolhido foi sobre Qualidade do sono, no qual está sendo dividido para cada indivíduo do grupo.  
    Cada integrante teve sua participação e envolvimento nesse primeiro passo, com boa parte deles contribuindo com ideias e comportamento à altura para se realizar o trabalho com respeito e efetividade.   
@@ -27,40 +27,40 @@ Vitor ficou na responsabilidade dos **principais documentos** e da **funcionalid
 
 -Responsabilidades:
 
-Estrutura de decisão\- Ícaro;  
-Recursos multimídia \- Levi;  
-Menus suspensos e pop-ups \- David;  
-Construção de elementos interativos \- Gustavo;  
-Responsividade \- Ana;  
-Integração JS com HTML e CSS \- Vitor;  
-Documento das principais funcionalidades do site \- Vitor;
+Estrutura de decisão - Ícaro;  
+Recursos multimídia - Levi;  
+Menus suspensos e pop-ups - David;  
+Construção de elementos interativos - Gustavo;  
+Responsividade - Ana;  
+Integração JS com HTML e CSS - Vitor;  
+Documento das principais funcionalidades do site - Vitor;
 
 ---
 
-\-Responsabilidades Gerais:
+**Responsabilidades Gerais:**
 
-GitHub \- David;  
-Figma\- Ícaro;  
-Pesquisas visuais e recursos de áudio\- Levi;  
-Pesquisa principal usada ao decorrer do trabalho\- Ana;  
-dev. principal do Css \- Vitor;  
-dev. principal do javascript\- Gustavo;
+GitHub - David;  
+Figma - Ícaro;  
+Pesquisas visuais e recursos de áudio - Levi;  
+Pesquisa principal usada ao decorrer do trabalho - Ana;  
+dev. principal do Css - Vitor;  
+dev. principal do javascript - Gustavo;
 
    ---  
 **2°** **Ata** 
 
-**Segundo Dia 9/06**
+**Segundo Dia - 9/06**
 
-\-**Coordenador:** Vitor Gabriel Silvano  
-\-**Secretário:** Gustavo Guedes  
-\-**Data:** 09/06/2026
+**Coordenador:** Vitor Gabriel Silvano  
+**Secretário:** Gustavo Guedes  
+**Data:** 09/06/2026
 
    No segundo dia de Ata discutimos mais sobre as funções que cada um irá administrar e manipular. Com os temas já definidos, começamos a fazer a pesquisa e mexer com o VsCode, separando já o CSS central e derivados para já começarmos os trabalhos ao decorrer dos dias com mais facilidade.   
 	Uma dificuldade que estamos passando levemente é com o comportamento de membros e juntamente com brincadeiras fora de hora, assim acabando comprometendo nossa eficiência dentro do trabalho. Mas estamos tentando reduzir ao máximo essas desavenças.   
 	Em relação à organização apesar das dificuldades, estamos conseguindo ir consideravelmente rápido e nas próximas semanas imaginamos conseguir começar a pôr em prática as ideias no VsCode.
 	
    --- 
-\-pesquisas e fontes:
+-pesquisas e fontes:
 
 **Qualidade de sono.**
 
@@ -70,18 +70,18 @@ dev. principal do javascript\- Gustavo;
 
    Estudos mostram que um indivíduo adulto, em média um sono normal é entre 7 á 8 horas, enquanto entre jovens (crianças e adolescentes) têm necessidade de maior tempo. O sono é de extrema importância para o crescimento dos mais novos, pois durante ele é liberado o hormônio de crescimento (GH).  
  o B3  
-   **Einstein.br:** Dormir bem é essencial para realizar tarefas diárias, com disposição e vigor. Vários aspectos podem ser prejudicados sem um sono adequado, como produtividade no trabalho e o humor, fora os sinais de cansaço, ansiedade, falta de disposição e até mesmo nervosismo.
+    Einstein.br: Dormir bem é essencial para realizar tarefas diárias, com disposição e vigor. Vários aspectos podem ser prejudicados sem um sono adequado, como produtividade no trabalho e o humor, fora os sinais de cansaço, ansiedade, falta de disposição e até mesmo nervosismo.
    
    ---
 
 **3**° **Ata**
 
-**Terceiro Dia  \-   16/06**
+**Terceiro Dia - 16/06**
 
-\-**Coordenador:** Vitor Gabriel Silvano  
-\-**Secretário:** Gustavo Guedes  
-\-**Data**:16/06/2026  
-**\- Faltante: Ícaro River.**   
+-**Coordenador:** Vitor Gabriel Silvano  
+- **Secretário:** Gustavo Guedes  
+-**Data**:16/06/2026  
+-**Faltante: Ícaro River.**   
 **Motivo: Falta justificado: Doente com atestado.**
 
    No terceiro dia de Ata, o grupo começou a fazer o modelo do site no figma, decidimos a paleta de cor do site, o responsável pelo GitHub, quem ficará responsável pela edição e quem irá fazer os códigos no vscode. 
