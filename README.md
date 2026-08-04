@@ -2,9 +2,9 @@
 
 **Primeiro Dia 02/06**
 
-\-**Coordenador:** Gustavo Guedes  
-\-**Secretário**:Vitor Gabriel Silvano  
-\-**Data:**  02/06/2026
+ **Coordenador:** Gustavo Guedes  
+ **Secretário**:Vitor Gabriel Silvano  
+**Data:**  02/06/2026
 
    Discussão sobre a organização do grupo e as responsabilidades de cada integrante, o grupo também está organizando a pesquisa sobre o assunto escolhido dentro de sala. O assunto escolhido foi sobre Qualidade do sono, no qual está sendo dividido para cada indivíduo do grupo.  
    Cada integrante teve sua participação e envolvimento nesse primeiro passo, com boa parte deles contribuindo com ideias e comportamento à altura para se realizar o trabalho com respeito e efetividade.   
@@ -23,9 +23,9 @@ Gustavo ficou encarregado pela **construção de elementos interativos** e admin
 
 Vitor ficou na responsabilidade dos **principais documentos** e da **funcionalidade adequada do site,** juntamente da **administração geral do CSS utilizado.**
 
-\----------------------------------------------------------------------------------------------------------------------------------------------------
+   ---
 
-\-Responsabilidades:
+-Responsabilidades:
 
 Estrutura de decisão\- Ícaro;  
 Recursos multimídia \- Levi;  
@@ -35,7 +35,7 @@ Responsividade \- Ana;
 Integração JS com HTML e CSS \- Vitor;  
 Documento das principais funcionalidades do site \- Vitor;
 
-\----------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 \-Responsabilidades Gerais:
 
@@ -46,7 +46,7 @@ Pesquisa principal usada ao decorrer do trabalho\- Ana;
 dev. principal do Css \- Vitor;  
 dev. principal do javascript\- Gustavo;
 
-\---------------------------------------------------------------------------------------------------------------------------------------------------  
+   ---  
 **2°** **Ata** 
 
 **Segundo Dia 9/06**
@@ -59,7 +59,7 @@ dev. principal do javascript\- Gustavo;
 	Uma dificuldade que estamos passando levemente é com o comportamento de membros e juntamente com brincadeiras fora de hora, assim acabando comprometendo nossa eficiência dentro do trabalho. Mas estamos tentando reduzir ao máximo essas desavenças.   
 	Em relação à organização apesar das dificuldades, estamos conseguindo ir consideravelmente rápido e nas próximas semanas imaginamos conseguir começar a pôr em prática as ideias no VsCode.
 	
-\--------------------------------------------------------------------------------------------------------------------------------------------------- 
+   --- 
 \-pesquisas e fontes:
 
 **Qualidade de sono.**
@@ -72,7 +72,7 @@ dev. principal do javascript\- Gustavo;
  o B3  
    **Einstein.br:** Dormir bem é essencial para realizar tarefas diárias, com disposição e vigor. Vários aspectos podem ser prejudicados sem um sono adequado, como produtividade no trabalho e o humor, fora os sinais de cansaço, ansiedade, falta de disposição e até mesmo nervosismo.
    
-\----------------------------------------------------------------------------------------------------------------------------------------------------
+   ---
 
 **3**° **Ata**
 
@@ -86,7 +86,7 @@ dev. principal do javascript\- Gustavo;
 
    No terceiro dia de Ata, o grupo começou a fazer o modelo do site no figma, decidimos a paleta de cor do site, o responsável pelo GitHub, quem ficará responsável pela edição e quem irá fazer os códigos no vscode. 
    
-\--------------------------------------------------------------------------------------------------------------------------------------------------- 
+   --- 
 
 **Responsável pelo GitHub:** David.  
 **Responsáveis pelo figma:** Levi e Ícaro.   
@@ -94,7 +94,7 @@ dev. principal do javascript\- Gustavo;
 
   Um outro problema que o grupo está lidando é a falta de comprometimento de um aluno, enquanto os outros estão se empenhando e levando á sério o trabalho, este aluno falta sem dar motivos e quando vem à aula não demonstra interesse em ajudar.
   
-\--------------------------------------------------------------------------------------------------------------------------------------------------- 
+   --- 
 
 **4**° **Ata**
 
@@ -113,7 +113,7 @@ dev. principal do javascript\- Gustavo;
 
   Enquanto isso, o encarregado do GitHub está pesquisando os funcionamentos do site de armazenamento de códigos, atas e o figma. E compartilhando o GitHub com integrantes.  
   
-\--------------------------------------------------------------------------------------------------------------------------------------------------- 
+  --- 
 
 **5**° **Ata**
 
@@ -131,8 +131,7 @@ dev. principal do javascript\- Gustavo;
    Enquanto o encarregado pelo GitHub está entendendo como o site funciona,  
  no figma, Gustavo já está terminando a primeira página **“Menu”**.
 
-\--------------------------------------------------------------------------------------------------------------------------------------------------- 
-
+  ---
  **6**° **Ata**
 
 **Quinto Dia \- 07/07**
