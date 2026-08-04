@@ -153,4 +153,6 @@ dev. principal do javascript\- Gustavo;
 
    Nesta terça-feira, com o número excessivo de faltantes, faremos apenas uma pequena parte do figma, com a ajuda dos poucos presentes. O Gustavo e o Ícaro  irão terminar o figma em casa até a próxima semana, para darmos início ao HTML, e seguir com o trabalho.
 
+   ---
+
 
