@@ -136,7 +136,7 @@ Referencias: [Jornal.ufg.br](http://jornal.ufg.br/) é [Einstein.br](http://Eins
   ---
  **6**° **Ata**
 
-**Quinto Dia - 07/07**
+**Sexto Dia - 07/07**
 
 -**Coordenador:** Vitor Gabriel Silvano  
  -**Secretário**: Gustavo Guedes  
