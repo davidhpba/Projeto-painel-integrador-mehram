@@ -156,4 +156,20 @@ Referencias: [Jornal.ufg.br](http://jornal.ufg.br/) é [Einstein.br](http://Eins
 
    ---
 
+**7 ° Ata**
+
+**Sétimo Dia - 19/08/2026**
+
+- **Coordenador:** Levi Matheus Streb  
+- **Secretário :** David Hilário Pereira Benke de Almeida  
+- **Remoção de um integrante:** Vitor Gabriel Silvano  
+- **Motivo:** Não frequenta mais a nossa escola
+
+Agora o David ficou responsável pelas atas.
+
+O grupo irá dividir entre todo mundo as tarefas que eram do Vitor, já que ele não frequenta mais essa escola.
+
+A Ana e o Gustavo começaram a fazer alguns ajustes no Figma, depois que eles obtiveram um feedback do professor.O Levi e o Ícaro ficaram responsáveis pela criação das redes sociais.
+
+
 
