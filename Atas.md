@@ -150,19 +150,19 @@ Referencias: [Jornal.ufg.br](http://jornal.ufg.br/) é [Einstein.br](http://Eins
    -**Faltantes:** 
 
 - **Vitor Gabriel Silvano.**  
- - Motivo: Ausência não justificada.
+  -  Motivo: Ausência não justificada.
 
 - **Ana Paula.**
- - Motivo: Ausência não justificada, não fez as pesquisas.
+  - Motivo: Ausência não justificada, não fez as pesquisas.
 
 - **Gustavo Guedes.**
- - Motivo: Ausência, por motivos de saúde.
+  - Motivo: Ausência, por motivos de saúde.
 
    Nesta terça-feira, com o número excessivo de faltantes, faremos apenas uma pequena parte do figma, com a ajuda dos poucos presentes. O Gustavo e o Ícaro  irão terminar o figma em casa até a próxima semana, para darmos início ao HTML, e seguir com o trabalho.
 
    ---
 
-**7 ° Ata**
+**7° Ata**
 
 **Sétimo Dia - 19/08/2026**
 
@@ -188,8 +188,10 @@ A Ana e o Gustavo começaram a fazer alguns ajustes no Figma, depois que eles ob
 - **Faltantes:** Ícaro River Florencio Santos, Gustavo Guedes
    - Motivo: Não informado
 
-  Neste dia o levi e a ana estão remodelando o figma e melhorando com mais elementos, levi teve que ajudar a ana... Depois começão a correção do html, e em seguida css.
-  É David está fazendo as Atas e remodelando elas para ficarem com mais conforto vísual é mais organizado. 
+   Neste dia, o Levi e a Ana estão remodelando o Figma e melhorando com mais elementos; o Levi teve que ajudar a Ana... Depois começou a correção do HTML e, em seguida, do CSS.
+
+  É David, está fazendo as atas e remodelando-as para ficarem com mais conforto visual e mais organizado. 
+
 
 
 
