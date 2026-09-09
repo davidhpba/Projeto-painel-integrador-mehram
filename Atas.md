@@ -158,6 +158,8 @@ Referencias: [Jornal.ufg.br](http://jornal.ufg.br/) é [Einstein.br](http://Eins
 - **Gustavo Guedes.**
   - Motivo: Ausência, por motivos de saúde.
 
+---
+
    Nesta terça-feira, com o número excessivo de faltantes, faremos apenas uma pequena parte do figma, com a ajuda dos poucos presentes. O Gustavo e o Ícaro  irão terminar o figma em casa até a próxima semana, para darmos início ao HTML, e seguir com o trabalho.
 
    ---
@@ -173,9 +175,7 @@ Referencias: [Jornal.ufg.br](http://jornal.ufg.br/) é [Einstein.br](http://Eins
 
 Agora o **David ficou responsável pelas atas**.
 
-O grupo irá dividir entre todo mundo as tarefas que eram do Vitor, já que ele não frequenta mais essa escola.
-
-A Ana e o Gustavo começaram a fazer alguns ajustes no Figma, depois que eles obtiveram um feedback do professor.O Levi e o Ícaro ficaram responsáveis pela criação das redes sociais.
+O grupo irá dividir entre todo mundo as tarefas que eram do Vitor, já que ele 
 
 ---
 
@@ -188,10 +188,20 @@ A Ana e o Gustavo começaram a fazer alguns ajustes no Figma, depois que eles ob
 - **Faltantes:** Ícaro River Florencio Santos, Gustavo Guedes
    - Motivo: Não informado
 
-   Neste dia, o Levi e a Ana estão remodelando o Figma e melhorando com mais elementos; o Levi teve que ajudar a Ana... Depois começou a correção do HTML e, em seguida, do CSS.
+A Ana e o Gustavo começaram a fazer alguns ajustes no Figma, depois que eles obtiveram um feedback do professor.O Levi e o Ícaro ficaram responsáveis pela criação das redes sociais.
+
+   Depois disso, o Levi e a Ana irão remodelar o Figma e melhorando com mais elementos; o Levi teve que ajudar a Ana... Depois começou a correção do HTML e, em seguida, do CSS.
 
   É David, está fazendo as atas e remodelando-as para ficarem com mais conforto visual e mais organizado. 
 
+---
 
+**9° Ata**
 
+**Nono Dia - 09/09/2026**
+
+- **Coordenador:** Levi Matheus Streb                        
+- **Secretário:** David Hilário Pereira Benke de Almeida 
+
+O levi, ana e o icaro, estão fazendo o figma, o gustavo ele esta ajudando o grupo, no que eles precisarem. O david ele esta fazendo as atas, e ajustando o que precisar nelas para depois ajudar o grupo, no que precisa.
 
