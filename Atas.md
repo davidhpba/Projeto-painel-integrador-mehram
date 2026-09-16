@@ -205,3 +205,13 @@ A Ana e o Gustavo começaram a fazer alguns ajustes no Figma, depois que eles ob
 
 O levi, ana e o icaro, estão fazendo o figma, o gustavo ele esta ajudando o grupo, no que eles precisarem. O david ele esta fazendo as atas, e ajustando o que precisar nelas para depois ajudar o grupo, no que precisa.
 
+---
+
+**10° Ata**
+
+**Decimo Dia - 09/09/2026**
+
+- **Coordenador:** Levi Matheus Streb                        
+- **Secretário:** David Hilário Pereira Benke de Almeida 
+
+Quase todo o grupo se reuniu, menos o David, que não pôde ajudar no Figma e ficou livre para dar mais pop-ups e menus suspensos. É o David que está reenviando os convites de colaboradores novamente, para os integrantes que não haviam aceitado. É uma estudada no GitHub, e aí está livre. 
