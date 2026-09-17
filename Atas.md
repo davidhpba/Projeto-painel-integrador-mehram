@@ -209,7 +209,7 @@ O levi, ana e o icaro, estão fazendo o figma, o gustavo ele esta ajudando o gru
 
 **10° Ata**
 
-**Decimo Dia - 09/09/2026**
+**Decimo Dia - 16/09/2026**
 
 - **Coordenador:** Levi Matheus Streb                        
 - **Secretário:** David Hilário Pereira Benke de Almeida 
