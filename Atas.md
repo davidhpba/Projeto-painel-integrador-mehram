@@ -215,3 +215,18 @@ O levi, ana e o icaro, estão fazendo o figma, o gustavo ele esta ajudando o gru
 - **Secretário:** David Hilário Pereira Benke de Almeida 
 
 Quase todo o grupo se reuniu, menos o David, que não pôde ajudar no Figma e ficou livre para dar mais pop-ups e menus suspensos. É o David que está reenviando os convites de colaboradores novamente, para os integrantes que não haviam aceitado. É uma estudada no GitHub, e aí está livre. 
+
+---
+
+**11° Ata**
+
+**Decimo primeiro Dia - 18/09/2026**
+
+- **Coordenador:** Levi Matheus Streb                        
+- **Secretário:** David Hilário Pereira Benke de Almeida 
+
+O Icaro está remodelando figma mais expessificamente o sobre nós.
+O Gustavo ele criou um novo repositorio para colocar a parte funcional do figma. É esta mexendo no CSS.
+O Levi ele esta melhorando o figma mais expecificamente a paarte Pesquisa.
+O David ele esta fazendo as Atas, e esta começando a fazer ela no JavaScript
+A Ana ela esta fazendo um pouco de tudo, mas ela esta fazendo mais a pagína serviços.
