@@ -27,7 +27,7 @@
 
 - Vitor ficou na responsabilidade dos **principais documentos** e da **funcionalidade adequada do site,** juntamente da **administração geral do CSS utilizado;**
 
-   ---
+   ---O Icaro está remodelando figma mais expessificamente o sobre nós. O Gustavo criou um novo repositório para colocar a parte funcional do figma. Isso é uma confusão no CSS. O Levi ele está melhorando o figma mais especificamente a pararte Pesquisa. O David ele está fazendo as Atas, e está começando a fazer ela no JavaScript A Ana ela está fazendo um pouco de tudo, mas ela está fazendo mais a página de serviços.
   
 **Responsabilidades:**
 
@@ -225,8 +225,8 @@ Quase todo o grupo se reuniu, menos o David, que não pôde ajudar no Figma e fi
 - **Coordenador:** Levi Matheus Streb                        
 - **Secretário:** David Hilário Pereira Benke de Almeida 
 
-O Icaro está remodelando figma mais expessificamente o sobre nós.
-O Gustavo ele criou um novo repositorio para colocar a parte funcional do figma. É esta mexendo no CSS.
-O Levi ele esta melhorando o figma mais expecificamente a paarte Pesquisa.
-O David ele esta fazendo as Atas, e esta começando a fazer ela no JavaScript
-A Ana ela esta fazendo um pouco de tudo, mas ela esta fazendo mais a pagína serviços.
+	- O Icaro está remodelando figma mais expessificamente o sobre nós.
+	- O Gustavo ele criou um novo repositorio para colocar a parte funcional do figma. É esta mexendo no CSS.
+	- O Levi ele esta melhorando o figma mais expecificamente a paarte Pesquisa.
+	- O David ele esta fazendo as Atas, e esta começando a fazer ela no JavaScript
+	- A Ana ela esta fazendo um pouco de tudo, mas ela esta fazendo mais a pagína serviços.
