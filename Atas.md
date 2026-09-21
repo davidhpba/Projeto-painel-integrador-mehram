@@ -230,3 +230,20 @@ Quase todo o grupo se reuniu, menos o David, que não pôde ajudar no Figma e fi
 	- O Levi ele esta melhorando o figma mais expecificamente a paarte Pesquisa.
 	- O David ele esta fazendo as Atas, e esta começando a fazer ela no JavaScript
 	- A Ana ela esta fazendo um pouco de tudo, mas ela esta fazendo mais a pagína serviços.
+ 
+---
+
+**12° Ata**
+
+**Decimo segunda  Dia - 18/09/2026**
+
+- **Coordenador:** Levi Matheus Streb                        
+- **Secretário:** David Hilário Pereira Benke de Almeida 
+- **Faltantes:**
+   - Gustavo guedes - motivo: matando aula
+   - Ana Paula - motivo: matando aula
+
+O David ele esta fazendo as Atas. E a primeira página no figma.
+O Icaro ele vai ajudar o David a terminar o css, e vai fazer o instagram.
+O levi ele esta fazendo começando e o css.
+
