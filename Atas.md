@@ -235,7 +235,7 @@ Quase todo o grupo se reuniu, menos o David, que não pôde ajudar no Figma e fi
 
 **12° Ata**
 
-**Decimo segunda  Dia - 18/09/2026**
+**Decimo segunda  Dia - 21/09/2026**
 
 - **Coordenador:** Levi Matheus Streb                        
 - **Secretário:** David Hilário Pereira Benke de Almeida 
