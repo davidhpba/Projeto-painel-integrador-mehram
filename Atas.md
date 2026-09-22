@@ -240,10 +240,27 @@ Quase todo o grupo se reuniu, menos o David, que não pôde ajudar no Figma e fi
 - **Coordenador:** Levi Matheus Streb                        
 - **Secretário:** David Hilário Pereira Benke de Almeida 
 - **Faltantes:**
-   - Gustavo guedes - motivo: matando aula
-   - Ana Paula - motivo: matando aula
+   - Gustavo guedes - motivo: falta não justificada
+   - Ana Paula - motivo: falta não justificada
 
-O David ele esta fazendo as Atas. E a primeira página no figma.
+O David ele esta fazendo as Atas. E a pagína inícial no figma.
 O Icaro ele vai ajudar o David a terminar o css, e vai fazer o instagram.
 O levi ele esta fazendo começando e o css.
 
+---
+
+**13° Ata**
+
+**Decimo terceiro  Dia - 21/09/2026**
+
+- **Coordenador:** Levi Matheus Streb                        
+- **Secretário:** David Hilário Pereira Benke de Almeida 
+
+
+O David trocou com o Gustavo, para o David fazer a página sobre nós e o Gustavo fazer a página inicial no Figma. E o David está fazendo as Atas no GitHub.
+
+O Icaro está resolvendo problemas técnicos na conta do Instagram.
+
+Ana está fazendo a página de serviços no Figma.
+
+O Levi está brincando na aula.
