@@ -264,3 +264,5 @@ O Icaro está resolvendo problemas técnicos na conta do Instagram.
 Ana está fazendo a página de serviços no Figma.
 
 O Levi está brincando na aula.
+
+Estamos enfrentando problemas de comprometimento no trabalho, ficam de muita brincadeira, desfocam muito rapido.
