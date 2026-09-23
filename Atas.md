@@ -235,8 +235,8 @@ Quase todo o grupo se reuniu, menos o David, que não pôde ajudar no Figma e fi
 
 **12° Ata**
 
-**Decimo segunda  Dia - 21/09/2026**
-
+**Decimo terceiro  Dia - 21/09/2026**
+ 
 - **Coordenador:** Levi Matheus Streb                        
 - **Secretário:** David Hilário Pereira Benke de Almeida 
 - **Faltantes:**
@@ -257,7 +257,7 @@ O levi ele esta fazendo começando e o css.
 - **Secretário:** David Hilário Pereira Benke de Almeida 
 
 
-O David trocou com o Gustavo, para o David fazer a página sobre nós e o Gustavo fazer a página inicial no Figma. E o David está fazendo as Atas no GitHub.
+O David trocou com o Gustavo, para o David fazer a página sobre nós e o Gustavo fazer a página inicial no Figma E o David está fazendo as Atas no GitHub.
 
 O Icaro está resolvendo problemas técnicos na conta do Instagram.
 
@@ -265,4 +265,20 @@ Ana está fazendo a página de serviços no Figma.
 
 O Levi está brincando na aula.
 
-Estamos enfrentando problemas de comprometimento no trabalho, ficam de muita brincadeira, desfocam muito rapido.
+Estamos enfrentando problemas de comprometimento no trabalho, ficam de muita brincadeira, e alguns integrantes desfocam muito rapidamente.
+
+--- 
+**14° Ata**
+
+**Decimo   Dia - 21/09/2026**
+
+- **Coordenador:** Levi Matheus Streb                        
+- **Secretário:** David Hilário Pereira Benke de Almeida
+- **Faltantes:**
+	- Ana - motivo: falta não justificada.
+
+   David continua fazendo a pagína sobre nós, do figma.
+   O Gustavo recebeu uma ideia do professor de fazer varia branchs, para facilitar o trabalho de  fazer comits no github. E isso que ela ira ver como fazer agora.
+   O Icaro agora ele esta começando a fazer posts no instagram.
+   O Levi ele esta livre para se algum integrante precissar de ajuda.
+
