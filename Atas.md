@@ -235,7 +235,7 @@ Quase todo o grupo se reuniu, menos o David, que não pôde ajudar no Figma e fi
 
 **12° Ata**
 
-**Decimo terceiro  Dia - 21/09/2026**
+**Decimo Segundo  Dia - 21/09/2026**
  
 - **Coordenador:** Levi Matheus Streb                        
 - **Secretário:** David Hilário Pereira Benke de Almeida 
@@ -251,7 +251,7 @@ O levi ele esta fazendo começando e o css.
 
 **13° Ata**
 
-**Decimo terceiro  Dia - 21/09/2026**
+**Decimo terceiro  Dia - 22/09/2026**
 
 - **Coordenador:** Levi Matheus Streb                        
 - **Secretário:** David Hilário Pereira Benke de Almeida 
@@ -270,7 +270,7 @@ Estamos enfrentando problemas de comprometimento no trabalho, ficam de muita bri
 --- 
 **14° Ata**
 
-**Decimo   Dia - 21/09/2026**
+**Decimo Quarto  Dia - 23/09/2026**
 
 - **Coordenador:** Levi Matheus Streb                        
 - **Secretário:** David Hilário Pereira Benke de Almeida
