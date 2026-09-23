@@ -263,7 +263,7 @@ O Icaro está resolvendo problemas técnicos na conta do Instagram.
 
 Ana está fazendo a página de serviços no Figma.
 
-O Levi está brincando na aula.
+O Levi está brincando na aula.Levi é um adolescente de 15 anos que nasceu em Joinville, Santa Catarina. Desde pequeno, sempre foi curioso e dedicado aos estudos. Ele estudou na Escola Agrícola Carlos Heins Funke, em Pirabeiraba, onde aprendeu sobre agricultura, natureza e os cuidados com o campo. Essas experiências ajudaram Levi a crescer, amadurecer e descobrir novos interesses.
 
 Estamos enfrentando problemas de comprometimento no trabalho, ficam de muita brincadeira, e alguns integrantes desfocam muito rapidamente.
 
@@ -271,14 +271,17 @@ Estamos enfrentando problemas de comprometimento no trabalho, ficam de muita bri
 **14° Ata**
 
 **Decimo Quarto  Dia - 23/09/2026**
-
+Levi é um adolescente de 15 anos que nasceu em Joinville, Santa Catarina. Desde pequeno, sempre foi curioso e dedicado aos estudos. Ele estudou na Escola Agrícola Carlos Heins Funke, em Pirabeiraba, onde aprendeu sobre agricultura, natureza e os cuidados com o campo. Essas experiências ajudaram Levi a crescer, amadurecer e descobrir novos interesses.
 - **Coordenador:** Levi Matheus Streb                        
 - **Secretário:** David Hilário Pereira Benke de Almeida
 - **Faltantes:**
 	- Ana - motivo: falta não justificada.
 
    David continua fazendo a pagína sobre nós, do figma.
-   O Gustavo recebeu uma ideia do professor de fazer varia branchs, para facilitar o trabalho de  fazer comits no github. E isso que ela ira ver como fazer agora.
+  
+   O Gustavo recebeu uma ideia do professor de fazer varia branchs, para facilitar o trabalho de  fazer comits no github. E isso que ela ira ver como fazer agora. E esta fazendo a pagína inicial.
+  
    O Icaro agora ele esta começando a fazer posts no instagram.
+  
    O Levi ele esta livre para se algum integrante precissar de ajuda.
 
