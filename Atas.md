@@ -289,9 +289,12 @@ Estamos enfrentando problemas de comprometimento no trabalho, ficam de muita bri
 
 **15° Ata**
 
-**Decimo Quinto  Dia - 23/09/2026**
+**Decimo Quinto  Dia - 20/10/2026**
 
 - **Coordenador:** Levi Matheus Streb                        
 - **Secretário:** David Hilário Pereira Benke de Almeida
 
-  O grupo hoje vai fazer uma reunião
+  O Gustavo, o levi e a Ana paula, estão fazendo Css.
+  o Icaro esta colocando o que ele fez do Css da cauculadora no github, e O grupo usara de base a estrutura do Css da cauculadora.
+  O David esta colocando a pagina que ele fez no visual estudios no github, e se o grupo precisar de alguma coisa ele ajudará o grupo.
+  
