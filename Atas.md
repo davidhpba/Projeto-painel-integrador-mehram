@@ -271,7 +271,7 @@ Estamos enfrentando problemas de comprometimento no trabalho, ficam de muita bri
 **14° Ata**
 
 **Decimo Quarto  Dia - 23/09/2026**
-Levi é um adolescente de 15 anos que nasceu em Joinville, Santa Catarina. Desde pequeno, sempre foi curioso e dedicado aos estudos. Ele estudou na Escola Agrícola Carlos Heins Funke, em Pirabeiraba, onde aprendeu sobre agricultura, natureza e os cuidados com o campo. Essas experiências ajudaram Levi a crescer, amadurecer e descobrir novos interesses.
+
 - **Coordenador:** Levi Matheus Streb                        
 - **Secretário:** David Hilário Pereira Benke de Almeida
 - **Faltantes:**
@@ -285,3 +285,13 @@ Levi é um adolescente de 15 anos que nasceu em Joinville, Santa Catarina. Desde
   
    O Levi ele esta livre para se algum integrante precissar de ajuda.
 
+---
+
+**15° Ata**
+
+**Decimo Quinto  Dia - 23/09/2026**
+
+- **Coordenador:** Levi Matheus Streb                        
+- **Secretário:** David Hilário Pereira Benke de Almeida
+
+  O grupo hoje vai fazer uma reunião
