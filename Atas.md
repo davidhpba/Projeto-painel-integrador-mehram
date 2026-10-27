@@ -300,7 +300,7 @@ Estamos enfrentando problemas de comprometimento no trabalho, ficam de muita bri
 
   ---
 
-  **15° Ata**
+  **16° Ata**
 
   **Decimo Sexto  Dia - 27/10/2026**
 
@@ -308,4 +308,4 @@ Estamos enfrentando problemas de comprometimento no trabalho, ficam de muita bri
 - **Secretário:** David Hilário Pereira Benke de Almeida
 
   O David ele ira estudar sobre os comando do terminal.
-  O resto do grupo esta livre hoje.
+  O resto do grupo esta terminando as paginas que precisam ser feitas no css.
