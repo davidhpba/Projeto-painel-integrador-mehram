@@ -319,5 +319,8 @@ Estamos enfrentando problemas de comprometimento no trabalho, ficam de muita bri
 
 - **Coordenador:** Levi Matheus Streb                        
 - **Secretário:** David Hilário Pereira Benke de Almeida
-	
- Quase todo o grupo ira terminar de fazer CSS, menos o David, porque o ele já fez tudo que ele poderia fazer no trabalho, alem de estar a disposição do que o grupo precisar... Ele ira começar a estudar 
+
+  O grupo inteiro está terminando o CSS e corrigindo os erros que encontarem.
+
+  Recebemos de novo o professor falando que o nosso site precisava de mais conteúdo, e nós começaremos a pensar como faremos isso.
+  	
