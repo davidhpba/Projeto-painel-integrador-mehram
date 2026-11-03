@@ -308,4 +308,16 @@ Estamos enfrentando problemas de comprometimento no trabalho, ficam de muita bri
 - **Secretário:** David Hilário Pereira Benke de Almeida
 
   O David ele ira estudar sobre os comando do terminal.
-  O resto do grupo esta terminando as paginas que precisam ser feitas no css.
+  
+  O resto do grupo esta terminando as paginas de CSS que precisam ser feitas no HTML.
+  
+--- 
+
+ **17° Ata**
+
+  **Decimo Setimo  Dia - 3/11/2026**
+
+- **Coordenador:** Levi Matheus Streb                        
+- **Secretário:** David Hilário Pereira Benke de Almeida
+	
+ Quase todo o grupo ira terminar de fazer CSS, menos o David, porque o ele já fez tudo que ele poderia fazer no trabalho, alem de estar a disposição do que o grupo precisar... Ele ira começar a estudar 
